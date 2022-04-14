@@ -1,5 +1,5 @@
 # Bangalore_home_prices_pridiction
-a model to predict the Bangalore home prices
+A model to predict the Bangalore home prices
 
 This data science project is a real estate price prediction model.
 The model is built using sklearn and linear regression using banglore home prices dataset from kaggle.com.
